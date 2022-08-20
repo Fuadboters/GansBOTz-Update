@@ -32,8 +32,8 @@ let tags = {
   'audio': '𝗔𝗨𝗗𝗜𝗢',
   'maker': '𝗠𝗔𝗞𝗘𝗥',
 }
-let iggw = `https://instagram.com/b4c00t.dtz`
-let own = `https://wa.me/6289509960601`
+let iggw = `https://instagram.com/fuadhasyim.official`
+let own = `https://wa.me/6285867185837`
 
 const defaultMenu = {
   before: `
