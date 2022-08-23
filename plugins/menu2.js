@@ -171,7 +171,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
          hydratedTemplate: {
            hydratedContentText: menu2nih.trim(),
            locationMessage: { 
-           jpegThumbnail: fs.readFileSync('./src/welcome.jpg') },
+           jpegThumbnail: fs.readFileSync('https://telegra.ph/file/1618512193d31ae9cbae5.jpg') },
            hydratedFooterText: `⃝▣──「 *INFO CMD* 」───⬣\n│ *Ⓟ* = Premium\n│ *Ⓛ* = Limit\n▣────────────⬣`,
            hydratedButtons: [{
              urlButton: {
