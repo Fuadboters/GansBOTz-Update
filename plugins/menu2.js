@@ -171,7 +171,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
          hydratedTemplate: {
            hydratedContentText: menu2nih.trim(),
            locationMessage: { 
-           jpegThumbnail: fs.readFileSync('./src/IMG_20220822_110507.jpg') },
+           jpegThumbnail: fs.readFileSync('./src/20220823_134610.jpg') },
            hydratedFooterText: `⃝▣──「 *INFO CMD* 」───⬣\n│ *Ⓟ* = Premium\n│ *Ⓛ* = Limit\n▣────────────⬣`,
            hydratedButtons: [{
              urlButton: {
